@@ -1,5 +1,6 @@
 Notes from books, online sources, misc...
-**Reading list:
+
+**Reading list:**
 
    **pfda**: Python for Data Analysis, 2nd edition, Wes McKinney (read Fall 2022)
    

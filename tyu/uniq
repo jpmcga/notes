@@ -1,0 +1,78 @@
+/etc/afpovertcp.cfg:                        ASCII text
+/etc/aliases:                               ASCII text
+/etc/aliases.db:                            cannot open: Permission denied
+/etc/apache2:                               directory
+/etc/asl:                                   directory
+/etc/asl.conf:                              ASCII text
+/etc/auto_home:                             ASCII text
+/etc/auto_master:                           ASCII text
+/etc/autofs.conf:                           ASCII text
+/etc/bashrc:                                ASCII text
+/etc/bashrc_Apple_Terminal:                 ASCII text
+/etc/com.apple.screensharing.agent.launchd: ASCII text, with no line terminators
+/etc/csh.cshrc:                             ASCII text
+/etc/csh.login:                             ASCII text
+/etc/csh.logout:                            ASCII text
+/etc/cups:                                  directory
+/etc/defaults:                              directory
+/etc/emond.d:                               directory
+/etc/find.codes:                            empty
+/etc/ftpusers:                              ASCII text
+/etc/gettytab:                              ASCII text
+/etc/group:                                 ASCII text
+/etc/hosts:                                 ASCII text
+/etc/hosts.equiv:                           empty
+/etc/irbrc:                                 Ruby script text, ASCII text
+/etc/kern_loader.conf:                      empty
+/etc/krb5.keytab:                           cannot open: Permission denied
+/etc/localtime:                             timezone data (fat), version 2, 5 gmt time flags, 5 std time flags, no leap seconds, 235 transition times, 5 local time types, 16 abbreviation chars
+/etc/locate.rc:                             ASCII text
+/etc/mail.rc:                               ASCII text
+/etc/man.conf:                              ASCII text
+/etc/manpaths:                              ASCII text
+/etc/manpaths.d:                            directory
+/etc/master.passwd:                         cannot open: Permission denied
+/etc/networks:                              ASCII text
+/etc/newsyslog.conf:                        ASCII text
+/etc/newsyslog.d:                           directory
+/etc/nfs.conf:                              ASCII text
+/etc/notify.conf:                           ASCII text
+/etc/ntp.conf:                              ASCII text
+/etc/ntp_opendirectory.conf:                ASCII text
+/etc/openldap:                              directory
+/etc/pam.d:                                 directory
+/etc/passwd:                                ASCII text
+/etc/paths:                                 ASCII text
+/etc/paths.d:                               directory
+/etc/periodic:                              directory
+/etc/pf.anchors:                            directory
+/etc/pf.conf:                               ASCII text
+/etc/pf.os:                                 ASCII text
+/etc/postfix:                               directory
+/etc/ppp:                                   directory
+/etc/profile:                               ASCII text
+/etc/protocols:                             ASCII text
+/etc/racoon:                                directory
+/etc/rc.common:                             ASCII text
+/etc/rc.netboot:                            POSIX shell script text executable, ASCII text
+/etc/resolv.conf:                           ASCII text
+/etc/rmtab:                                 empty
+/etc/rpc:                                   ASCII text
+/etc/rtadvd.conf:                           ASCII text
+/etc/security:                              directory
+/etc/services:                              ASCII text
+/etc/shells:                                ASCII text
+/etc/snmp:                                  directory
+/etc/ssh:                                   directory
+/etc/ssl:                                   directory
+/etc/sudo_lecture:                          cannot open: Permission denied
+/etc/sudoers:                               cannot open: Permission denied
+/etc/sudoers.d:                             directory
+/etc/syslog.conf:                           ASCII text
+/etc/ttys:                                  ASCII text
+/etc/uucp:                                  directory
+/etc/wfs:                                   directory
+/etc/xtab:                                  empty
+/etc/zprofile:                              ASCII text
+/etc/zshrc:                                 ASCII text
+/etc/zshrc_Apple_Terminal:                  ASCII text

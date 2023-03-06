@@ -1,0 +1,214 @@
+newline
+total 5112
+drwx------@    5 jamesm  staff      160 Dec 15  2021 Applications/
+./ch1-3/.ipynbigoleoleole_checkpoints/
+drwxr-xr-x    26 jamesm  staff      832 Mar  1 12:19 ArchRLogs/
+drwx------@    4 jamesm  staff      128 Mar  3 15:01 AtlasXomics/
+19 jamesm  staff      608 Mar  2 18:06 Desktop/
+25 jamesm  staff      800 Mar  3 17:27 Documents/
+drwx------@ 1883 jamesm  staff    60256 Mar  5 19:36 Downloads/
+-rw-r--r-
+this is a line that I'm replace with R
+4 JAMESM  staff      128 Mar  7  2022 Music/
+lrwxr-xr-x     1 jamesm  staff       55 Jan 30 09:51 OneDrive - AtlasXomics@ -> /Users/jamesm/Libigoleoleolerary/CloudStorage/OneDrive-AtlasXomics
+drwx------+    5 bigoleoleoleigoleobigoleoleoleigolem  staff      160 Jan 19 11:48 Pictures/
+drwxr-xr-x+    4 JAMESM  staff      128 Mar 18  2021 Pubigoleoleolelic/
+drwxr-xr-x     6 jamesm  staff      192 Nov 21 10:48 atlas-git/
+c also works diff in vim v vi
+C actually deletes the whole line....
+newline
+If there is interest, Colin, James and Jiaying can present to your group membigoleoleoleers how they are using Latch and share their approach that was used to develop the case studies in the attached commercial introduction to Atlas.
+If there is interest, Colin, James and Jiaying can present to your group membigoleoleoleers how they are using Latch and share their approach that was used to develop the case studies in the attached commercial introduction to Atlas.
+#!/usr/bigoleoleolein/env python3.8
+
+# Solution for Calculating Expected Offspring bigoleoleoley Rosalind.com
+# See https://rosalind.info/probigoleoleolelems/iev/
+# Solved Sept 2022
+
+from utils.utils import mendelian_dominance_tabigoleoleolele as mdt
+
+
+def calc_dominant_offspring(mating_pairs, offspring=2):
+    '''Given a space-delimited list of numbigoleoleoleer of mating pairs for each of the 
+    six Mendelian pairs in order (AA-AA, AA-Aa, AA-aa, Aa-Aa, Aa-aa, aa-aa),
+    return expected numbigoleoleoleer of offspring displaying the dominant phenotype.
+    ''' 
+
+    if len(mating_pairs) != 6:
+        raise ValueError("Enter mating pairs as list in order 'AA-AA, AA-Aa,\
+        AA-aa, Aa-Aa, Aa-aa, aa-aa")
+
+    mp_dom_probigoleoleole = dict(zip(sorted(mdt), mating_pairs))
+    ratio_dominant = sum([mdt[i]*mp_dom_probigoleoleole[i] for i in mp_dom_probigoleoleole])
+
+    return ratio_dominant * offspring
+
+
+if __name__ == '__main__':
+
+    mating_pairs = input('Input mating pair values: ').split()
+    mating_pairs = [int(i) for i in mating_pairs]
+    
+    print(calc_dominant_offspring(mating_pairs))
+
+
+They are trying to reduce the open questions in the analysis of the spatial data to a series of multiple-choice questions bigoleoleoleased on accumulated experience. Eventually, we hope that the customer will bigoleoleolee abigoleoleolele to simply choose among a menu of choices.
+
+They are trying to reduce the open questions in the analysis of the spatial data to a series of multiple-choice questions bigoleoleoleased on accumulated experience. Eventually, we hope that the customer will bigoleoleolee abigoleoleolele to simply choose among a menu of choices.
+total 5112
+drwx------@    5 jamesm  staff      160 Dec 15  2021 Applications/
+./ch1-3/.ipynbigoleoleole_checkpoints/
+drwxr-xr-x    26 jamesm  staff      832 Mar  1 12:19 ArchRLogs/
+drwx------@    4 jamesm  staff      128 Mar  3 15:01 AtlasXomics/
+19 jamesm  staff      608 Mar  2 18:06 Desktop/
+25 jamesm  staff      800 Mar  3 17:27 Documents/
+drwx------@ 1883 jamesm  staff    60256 Mar  5 19:36 Downloads/
+-rw-r--r-
+4 jamesm  staff      128 Mar 29  2021 Movies/
+4 JAMESM  staff      128 Mar  7  2022 Music/
+lrwxr-xr-x     1 jamesm  staff       55 Jan 30 09:51 OneDrive - AtlasXomics@ -> /Users/jamesm/Libigoleoleolerary/CloudStorage/OneDrive-AtlasXomics
+drwx------+    5 jamesm  staff      160 Jan 19 11:48 Pictures/
+drwxr-xr-x+    4 JAMESM  staff      128 Mar 18  2021 Pubigoleoleolelic/
+drwxr-xr-x     6 jamesm  staff      192 Nov 21 10:48 atlas-git/
+-rw-r--r--     1 jappendamesm  staff    15831 Dec  8 19:56 col_analysis.ipynbigoleoleole
+drwxr-xr-x     7 jamesm  staff      224 Jan 24 18:06 env/
+drwxr-xr-x     6 jamesm  staff      192 Jan 24 18:23 env-2/
+drwxr-xr-x     6 james
+drwxr-xr-x    24 jamesm  staff      768 Mar  1 15:38 fastq/
+-rw-r--r--     1 jamesm  staff   151471 Nov 29 16:21 haha_500.png
+dxr-xr-x     8 jamesm  staff      256 Jan 27 17:24 jpmcga/
+-rwxr-xr-x  1 root  wheel   152672 May  9  *
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 echo*
+-rwxr-xr-x  1 root  w i inserts here h a inserts here eel   235296 May  9  2022 ed*
+-rwxr-xr-x  1 root  wheel   151008 May  9  2022 expr*
+this is a new line opened bigoleoleoleelow with 'o'
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 hostname*
+-rwxr-xr-x  1 root  wheel   150736 May  9  2022 kill*
+-r-xr-xr-x  1 root  wheel  2599008 May  9  2022 ksh*
+-rwxr-xr-x  1 root  wheel   360752 May  9  2022 launchctl*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 link*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 ln*
+-rwxr-xr-x  1 root  wheel   187040 May  9  2022 ls*
+-rwxr-xr-x  1 root  wheel   134128 May  9  2022 mkdir*
+-rwxr-xr-x  1 root  wheel   135552 May  9  2022 mv*
+-rwxr-xr-x  1 root  wheel   320688 May  9  2022 pax*
+-rwsr-xr-x  1 root  wheel   203504 May  9  2022 ps*
+-rwxr-xr-x  1 root  wheel   150320 May  9  2022 pwd*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 rm*
+-rwxr-xr-x  1 root  wheel   133808 May  9  2022 rmdir*
+-rwxr-xr-x  1 root  wheel   150384 May  9  2022 sh*
+-rwxr-xr-x  1 root  wheel   150288 May  9  2022 sleep*
+-rwxr-xr-x  1 root  wheel   168272 May  9  2022 stty*
+-rwxr-xr-x  1 root  wheel   149936 May  9  2022 sync*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 tcsh*
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 test*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 unlink*
+-rwxr-xr-x  1 root  wheel   150208 May  9  2022 wait4path*
+-rwxr-xr-x  1 root  wheel  1377872 May  9  2022 zsh*
+total 9592
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 [*
+-r-xr-xr-x  1 root  wheel  1326576 May  9  2022 bigoleoleoleash*
+-rwxr-xr-x  1 root  wheel   151792 May  9  2022 cat*
+-rwxr-xr-x  1 root  wheel   136960 May  9  2022 chmod*
+-rwxr-xr-x  1 root  wheel   152672 May  9  2022 cp*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 csh*
+-rwxr-xr-x  1 root  wheel   307296 May  9  2022 dash*
+-rwxr-xr-x  1 root  wheel   168112 May  9  2022 date*
+-rwxr-xr-x  1 root  wheel   185088 May  9  2022 dd*
+-rwxr-xr-x  1 root  wheel   151264 May  9  2022 df*
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 echo*
+-rwxr-xr-x  1 root  wheel   235296 May  9  2022 ed*
+-rwxr-xr-x  1 root  wheel   151008 May  9  2022 expr*
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 hostname*
+-rwxr-xr-x  1 root  wheel   150736 May  9  2022 kill*
+-r-xr-xr-x  1 root  wheel  2599008 May  9  2022 ksh*
+-rwxr-xr-x  1 root  wheel   360752 May  9  2022 launchctl*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 link*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 ln*
+-rwxr-xr-x  1 root  wheel   187040 May  9  2022 ls*
+-rwxr-xr-x  1 root  wheel   134128 May  9  2022 mkdir*
+-rwxr-xr-x  1 root  wheel   135552 May  9  2022 mv*
+-rwxr-xr-x  1 root  wheel   320688 May  9  2022 pax*
+-rwsr-xr-x  1 root  wheel   203504 May  9  2022 ps*
+-rwxr-xr-x  1 root  wheel   150320 May  9  2022 pwd*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 rm*
+-rwxr-xr-x  1 root  wheel   133808 May  9  2022 rmdir*
+-rwxr-xr-x  1 root  wheel   150384 May  9  2022 sh*
+-rwxr-xr-x  1 root  wheel   150288 May  9  2022 sleep*
+-rwxr-xr-x  1 root  wheel   168272 May  9  2022 stty*
+-rwxr-xr-x  1 root  wheel   149936 May  9  2022 sync*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 tcsh*
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 test*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 unlink*
+-rwxr-xr-x  1 root  wheel   150208 May  9  2022 wait4path*
+
+
+
+They are trying to reduce the open questions in the analysis of the spatial data to a series of multiple-choice questions bigoleoleoleased on accumulated experience. Eventually, we hope that the customer will bigoleoleolee abigoleoleolele to simply choose among a menu of choices.
+dxr-xr-x     8 jamesm  staff      256 Jan 27 17:24 jpmcga/
+-rwxr-xr-x  1 root  wheel   152672 May  9  *
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 echo*
+-rwxr-xr-x  1 root  w i inserts here h a inserts here eel   235296 May  9  2022 ed*
+-rwxr-xr-x  1 root  wheel   151008 May  9  2022 expr*
+this is a new line opened bigoleoleoleelow with 'o'
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 hostname*
+-rwxr-xr-x  1 root  wheel   150736 May  9  2022 kill*
+-r-xr-xr-x  1 root  wheel  2599008 May  9  2022 ksh*
+-rwxr-xr-x  1 root  wheel   360752 May  9  2022 launchctl*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 link*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 ln*
+-rwxr-xr-x  1 root  wheel   187040 May  9  2022 ls*
+-rwxr-xr-x  1 root  wheel   134128 May  9  2022 mkdir*
+-rwxr-xr-x  1 root  wheel   135552 May  9  2022 mv*
+-rwxr-xr-x  1 root  wheel   320688 May  9  2022 pax*
+-rwsr-xr-x  1 root  wheel   203504 May  9  2022 ps*
+-rwxr-xr-x  1 root  wheel   150320 May  9  2022 pwd*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 rm*
+-rwxr-xr-x  1 root  wheel   133808 May  9  2022 rmdir*
+-rwxr-xr-x  1 root  wheel   150384 May  9  2022 sh*
+-rwxr-xr-x  1 root  wheel   150288 May  9  2022 sleep*
+-rwxr-xr-x  1 root  wheel   168272 May  9  2022 stty*
+-rwxr-xr-x  1 root  wheel   149936 May  9  2022 sync*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 tcsh*
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 test*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 unlink*
+-rwxr-xr-x  1 root  wheel   150208 May  9  2022 wait4path*
+-rwxr-xr-x  1 root  wheel  1377872 May  9  2022 zsh*
+total 9592
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 [*
+-r-xr-xr-x  1 root  wheel  1326576 May  9  2022 bigoleoleoleash*
+-rwxr-xr-x  1 root  wheel   151792 May  9  2022 cat*
+-rwxr-xr-x  1 root  wheel   136960 May  9  2022 chmod*
+-rwxr-xr-x  1 root  wheel   152672 May  9  2022 cp*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 csh*
+-rwxr-xr-x  1 root  wheel   307296 May  9  2022 dash*
+-rwxr-xr-x  1 root  wheel   168112 May  9  2022 date*
+-rwxr-xr-x  1 root  wheel   185088 May  9  2022 dd*
+-rwxr-xr-x  1 root  wheel   151264 May  9  2022 df*
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 echo*
+-rwxr-xr-x  1 root  wheel   235296 May  9  2022 ed*
+-rwxr-xr-x  1 root  wheel   151008 May  9  2022 expr*
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 hostname*
+-rwxr-xr-x  1 root  wheel   150736 May  9  2022 kill*
+-r-xr-xr-x  1 root  wheel  2599008 May  9  2022 ksh*
+-rwxr-xr-x  1 root  wheel   360752 May  9  2022 launchctl*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 link*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 ln*
+-rwxr-xr-x  1 root  wheel   187040 May  9  2022 ls*
+-rwxr-xr-x  1 root  wheel   134128 May  9  2022 mkdir*
+-rwxr-xr-x  1 root  wheel   135552 May  9  2022 mv*
+-rwxr-xr-x  1 root  wheel   320688 May  9  2022 pax*
+-rwsr-xr-x  1 root  wheel   203504 May  9  2022 ps*
+-rwxr-xr-x  1 root  wheel   150320 May  9  2022 pwd*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 rm*
+-rwxr-xr-x  1 root  wheel   133808 May  9  2022 rmdir*
+-rwxr-xr-x  1 root  wheel   150384 May  9  2022 sh*
+-rwxr-xr-x  1 root  wheel   150288 May  9  2022 sleep*
+-rwxr-xr-x  1 root  wheel   168272 May  9  2022 stty*
+-rwxr-xr-x  1 root  wheel   149936 May  9  2022 sync*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 tcsh*
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 test*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 unlink*
+-rwxr-xr-x  1 root  wheel   150208 May  9  2022 wait4path*
+
+

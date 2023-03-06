@@ -1,0 +1,89 @@
+newline
+total 5112
+drwx------@    5 jamesm  staff      160 Dec 15  2021 Applications/
+./ch1-3/.ipynb_checkpoints/
+drwxr-xr-x    26 jamesm  staff      832 Mar  1 12:19 ArchRLogs/
+drwx------@    4 jamesm  staff      128 Mar  3 15:01 AtlasXomics/
+19 jamesm  staff      608 Mar  2 18:06 Desktop/
+25 jamesm  staff      800 Mar  3 17:27 Documents/
+drwx------@ 1883 jamesm  staff    60256 Mar  5 19:36 Downloads/
+-rw-r--r-
+4 jamesm  staff      128 Mar 29  2021 Movies/
+4 JAMESM  staff      128 Mar  7  2022 Music/
+lrwxr-xr-x     1 jamesm  staff       55 Jan 30 09:51 OneDrive - AtlasXomics@ -> /Users/jamesm/Library/CloudStorage/OneDrive-AtlasXomics
+drwx------+    5 jamesm  staff      160 Jan 19 11:48 Pictures/
+drwxr-xr-x+    4 JAMESM  staff      128 Mar 18  2021 Public/
+drwxr-xr-x     6 jamesm  staff      192 Nov 21 10:48 atlas-git/
+-rw-r--r--     1 jappendamesm  staff    15831 Dec  8 19:56 col_analysis.ipynb
+drwxr-xr-x     7 jamesm  staff      224 Jan 24 18:06 env/
+drwxr-xr-x     6 jamesm  staff      192 Jan 24 18:23 env-2/
+drwxr-xr-x     6 james
+drwxr-xr-x    24 jamesm  staff      768 Mar  1 15:38 fastq/
+-rw-r--r--     1 jamesm  staff   151471 Nov 29 16:21 haha_500.png
+dxr-xr-x     8 jamesm  staff      256 Jan 27 17:24 jpmcga/
+-rwxr-xr-x  1 root  wheel   152672 May  9  *
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 echo*
+-rwxr-xr-x  1 root  w i inserts here h a inserts here eel   235296 May  9  2022 ed*
+-rwxr-xr-x  1 root  wheel   151008 May  9  2022 expr*
+this is a new line opened below with 'o'
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 hostname*
+-rwxr-xr-x  1 root  wheel   150736 May  9  2022 kill*
+-r-xr-xr-x  1 root  wheel  2599008 May  9  2022 ksh*
+-rwxr-xr-x  1 root  wheel   360752 May  9  2022 launchctl*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 link*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 ln*
+-rwxr-xr-x  1 root  wheel   187040 May  9  2022 ls*
+-rwxr-xr-x  1 root  wheel   134128 May  9  2022 mkdir*
+-rwxr-xr-x  1 root  wheel   135552 May  9  2022 mv*
+-rwxr-xr-x  1 root  wheel   320688 May  9  2022 pax*
+-rwsr-xr-x  1 root  wheel   203504 May  9  2022 ps*
+-rwxr-xr-x  1 root  wheel   150320 May  9  2022 pwd*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 rm*
+-rwxr-xr-x  1 root  wheel   133808 May  9  2022 rmdir*
+-rwxr-xr-x  1 root  wheel   150384 May  9  2022 sh*
+-rwxr-xr-x  1 root  wheel   150288 May  9  2022 sleep*
+-rwxr-xr-x  1 root  wheel   168272 May  9  2022 stty*
+-rwxr-xr-x  1 root  wheel   149936 May  9  2022 sync*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 tcsh*
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 test*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 unlink*
+-rwxr-xr-x  1 root  wheel   150208 May  9  2022 wait4path*
+-rwxr-xr-x  1 root  wheel  1377872 May  9  2022 zsh*
+total 9592
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 [*
+-r-xr-xr-x  1 root  wheel  1326576 May  9  2022 bash*
+-rwxr-xr-x  1 root  wheel   151792 May  9  2022 cat*
+-rwxr-xr-x  1 root  wheel   136960 May  9  2022 chmod*
+-rwxr-xr-x  1 root  wheel   152672 May  9  2022 cp*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 csh*
+-rwxr-xr-x  1 root  wheel   307296 May  9  2022 dash*
+-rwxr-xr-x  1 root  wheel   168112 May  9  2022 date*
+-rwxr-xr-x  1 root  wheel   185088 May  9  2022 dd*
+-rwxr-xr-x  1 root  wheel   151264 May  9  2022 df*
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 echo*
+-rwxr-xr-x  1 root  wheel   235296 May  9  2022 ed*
+-rwxr-xr-x  1 root  wheel   151008 May  9  2022 expr*
+-rwxr-xr-x  1 root  wheel   150336 May  9  2022 hostname*
+-rwxr-xr-x  1 root  wheel   150736 May  9  2022 kill*
+-r-xr-xr-x  1 root  wheel  2599008 May  9  2022 ksh*
+-rwxr-xr-x  1 root  wheel   360752 May  9  2022 launchctl*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 link*
+-rwxr-xr-x  2 root  wheel   134720 May  9  2022 ln*
+-rwxr-xr-x  1 root  wheel   187040 May  9  2022 ls*
+-rwxr-xr-x  1 root  wheel   134128 May  9  2022 mkdir*
+-rwxr-xr-x  1 root  wheel   135552 May  9  2022 mv*
+-rwxr-xr-x  1 root  wheel   320688 May  9  2022 pax*
+-rwsr-xr-x  1 root  wheel   203504 May  9  2022 ps*
+-rwxr-xr-x  1 root  wheel   150320 May  9  2022 pwd*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 rm*
+-rwxr-xr-x  1 root  wheel   133808 May  9  2022 rmdir*
+-rwxr-xr-x  1 root  wheel   150384 May  9  2022 sh*
+-rwxr-xr-x  1 root  wheel   150288 May  9  2022 sleep*
+-rwxr-xr-x  1 root  wheel   168272 May  9  2022 stty*
+-rwxr-xr-x  1 root  wheel   149936 May  9  2022 sync*
+-rwxr-xr-x  2 root  wheel  1153456 May  9  2022 tcsh*
+-rwxr-xr-x  2 root  wheel   150624 May  9  2022 test*
+-rwxr-xr-x  2 root  wheel   135408 May  9  2022 unlink*
+-rwxr-xr-x  1 root  wheel   150208 May  9  2022 wait4path*
+
+

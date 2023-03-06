@@ -1,0 +1,30 @@
+echo === /bin/bash* ===
+head /bin/bash*; echo ... 1326576 bytes ...; tail /bin/bash*
+echo === /bin/cat* ===
+head /bin/cat*; echo ... 151792 bytes ...; tail /bin/cat*
+echo === /bin/dash* ===
+head /bin/dash*; echo ... 307296 bytes ...; tail /bin/dash*
+echo === /bin/date* ===
+head /bin/date*; echo ... 168112 bytes ...; tail /bin/date*
+echo === /bin/hostname* ===
+head /bin/hostname*; echo ... 150336 bytes ...; tail /bin/hostname*
+echo === /bin/kill* ===
+head /bin/kill*; echo ... 150736 bytes ...; tail /bin/kill*
+echo === /bin/launchctl* ===
+head /bin/launchctl*; echo ... 360752 bytes ...; tail /bin/launchctl*
+echo === /bin/launchctl* ===
+head /bin/launchctl*; echo ... 360752 bytes ...; tail /bin/launchctl*
+echo === /bin/link* ===
+head /bin/link*; echo ... 134720 bytes ...; tail /bin/link*
+echo === /bin/ln* ===
+head /bin/ln*; echo ... 134720 bytes ...; tail /bin/ln*
+echo === /bin/ls* ===
+head /bin/ls*; echo ... 187040 bytes ...; tail /bin/ls*
+echo === /bin/pax* ===
+head /bin/pax*; echo ... 320688 bytes ...; tail /bin/pax*
+echo === /bin/sleep* ===
+head /bin/sleep*; echo ... 150288 bytes ...; tail /bin/sleep*
+echo === /bin/unlink* ===
+head /bin/unlink*; echo ... 135408 bytes ...; tail /bin/unlink*
+echo === /bin/wait4path* ===
+head /bin/wait4path*; echo ... 150208 bytes ...; tail /bin/wait4path*

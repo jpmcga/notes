@@ -1,0 +1,12 @@
+# locate - find copies of a file
+#
+# this should be run in the C shell
+
+set name = $1
+
+foreach directory ( `echo $PATH | sed 's/:/ /g'` )
+  if ( -f "$directory/$name" ) then
+    ls -l "$directory/$name"
+  endif
+end
+

@@ -1,0 +1,200 @@
+FcFontSetPrint(3)        - Print a set of patterns to stdout
+FcPatternPrint(3)        - Print a pattern for debugging
+FcValuePrint(3)          - Print a value to stdout
+zstdgrep(1)              - print lines matching a pattern in zstandard-compressed files
+MPI_Comm_get_name(3)     - Return the print name from the communicator
+MPI_Comm_set_name(3)     - Sets the print name for a communicator
+MPI_Type_get_name(3)     - Get the print name for a datatype
+MPI_Win_get_name(3)      - Get the print name associated with the MPI RMA window
+MPI_Win_set_name(3)      - Set the print name for an MPI RMA window
+acountry(1)              - print the country where an IPv4 address or host is located
+adig(1)                  - print information collected from Domain Name System (DNS) servers
+ahost(1)                 - print the A or AAAA record associated with a hostname or IP address
+kvno(1)                  - print key version numbers of Kerberos principals
+webpinfo(1)              - print out the chunk level structure of WebP files along with basic integrity checks
+x86_64-apple-darwin13.4.0-size(1), size(1) - print the size of the sections in an object file
+x86_64-apple-darwin13.4.0-strings(1), strings(1) - find the printable strings in a object, or other binary, file
+zmq_z85_decode(3)        - decode a binary key from Z85 printable text
+zmq_z85_encode(3)        - encode a binary key as Z85 printable text
+zstdgrep(1)              - print lines matching a pattern in zstandard-compressed files
+PrintUITool(8)           - a tool to perform privileged ui based operations on the printing system
+arch(1)                  - print architecture type or run selected architecture of a universal binary
+banner(6)                - print large banner on printer
+builtin(1), !(1), %(1), .(1), :(1), @(1), [(1), {(1), }(1), alias(1), alloc(1), bg(1), bind(1), bindkey(1), break(1), breaksw(1), builtins(1), case(1), cd(1), chdir(1), command(1), complete(1), continue(1), default(1), dirs(1), do(1), done(1), echo(1), echotc(1), elif(1), else(1), end(1), endif(1), endsw(1), esac(1), eval(1), exec(1), exit(1), export(1), false(1), fc(1), fg(1), filetest(1), fi(1), for(1), foreach(1), getopts(1), glob(1), goto(1), hash(1), hashstat(1), history(1), hup(1), if(1), jobid(1), jobs(1), kill(1), limit(1), local(1), log(1), login(1), logout(1), ls-F(1), nice(1), nohup(1), notify(1), onintr(1), popd(1), printenv(1), printf(1), pushd(1), pwd(1), read(1), readonly(1), rehash(1), repeat(1), return(1), sched(1), set(1), setenv(1), settc(1), setty(1), setvar(1), shift(1), source(1), stop(1), suspend(1), switch(1), telltc(1), test(1), then(1), time(1), times(1), trap(1), true(1), type(1), ulimit(1), umask(1), unalias(1), uncomplete(1), unhash(1), unlimit(1), unset(1), unsetenv(1), until(1), wait(1), where(1), which(1), while(1) - shell built-in commands
+cat(1)                   - concatenate and print files
+cups(1)                  - a standards-based, open source printing system
+cups-lpd(8)              - receive print jobs and report printer status to lpd clients (deprecated)
+cupsdisable(8), cupsenable(8) - stop/start printers and classes
+dserr(8)                 - prints a description for an error code
+env(1)                   - set environment and execute command, or print environment
+errinfo(1m)              - print errno for syscall fails. Uses DTrace
+footprint(1)             - gathers memory information about one or more processes
+format(ntcl)             - Format a string in the style of sprintf
+from(1)                  - print names of those who have sent mail
+fwkpfv(1)                - FireWire kprintf viewer
+grolbp(1)                - groff driver for Canon CAPSL printers (LBP-4 and LBP-8 series laser printers)
+hostname(1)              - set or print name of current host system
+hotspot.d(1m)            - print disk event by location. Uses DTrace
+infocmp(1m)              - compare or print out terminfo descriptions
+iopattern(1m)            - print disk I/O pattern. Uses DTrace
+ippevepcl(7), ippevepcl/ps(7) - pcl and postscript print commands for ippeveprinter
+ippeveprinter(1)         - an ipp everywhere printer application for cups
+ippfind(1)               - find internet printing protocol printers
+ipptool(1)               - perform internet printing protocol requests
+iwidgets_canvasprintbox(n), iwidgets::canvasprintbox(n) - Create and manipulate a canvas print box widget
+iwidgets_canvasprintdialog(n), iwidgets::canvasprintdialog(n) - Create and manipulate a canvas print dialog widget
+jot(1)                   - print sequential or random data
+kextfind(8)              - find kernel extensions (kexts) based on a variety of criteria and print information
+ktrace(1)                - configure, record, and print events from kernel trace
+lastwords(1m)            - print syscalls before exit. Uses DTrace
+loads.d(1m)              - print load averages. Uses DTrace
+lp(1)                    - print files
+lpadmin(8)               - configure cups printers and classes
+lpc(8)                   - line printer control program (deprecated)
+lpoptions(1)             - display or set printer options and defaults
+lpq(1)                   - show printer queue status
+lpr(1)                   - print files
+lprm(1)                  - cancel print jobs
+lpstat(1)                - print cups status information
+machine(1)               - print machine type
+md5(1)                   - calculate a message-digest fingerprint (checksum) for a file
+pagesize(1)              - print system page size
+pcsstatus(1)             - print current status of PCS credentials
+pf.os(5)                 - format of the operating system fingerprints file
+pidpersec.d(1m)          - print new PIDs per sec. Uses DTrace
+plockstat(1)             - front-end to DTrace to print statistics about POSIX mutexes and read/write locks
+pod2usage(1)             - print usage messages from embedded pod docs in files
+podselect(1)             - print selected sections of pod documentation on standard output
+pr(1)                    - print files
+praudit(1)               - print the contents of audit trail files
+printenv(1)              - print out the environment
+printers.conf(5)         - printer configuration file for cups
+printf(1)                - formatted output
+printtool(8)             - a tool to configure the printing system
+quoted-printable(n)      - Encoding "quoted-printable"
+sa(8)                    - print system accounting statistics
+seeksize.d(1m)           - print disk event seek report. Uses DTrace
+seq(1)                   - print sequences of numbers
+shasum(1)                - Print or Check SHA Checksums
+sw_vers(1)               - print macOS version information
+tailspin(1)              - configure, save and print tailspin output
+texi2dvi(1)              - print Texinfo documents
+tidy(1)                  - validate, correct, and pretty-print HTML files
+traceroute(8)            - print the route packets take to network host
+traceroute6(8)           - print the route IPv6 packets will take to a network node
+uname(1)                 - Print operating system name
+vis(1)                   - display non-printable characters in a visual format
+xprintf(5)               - extensible printf
+zprint(1)                - show information about kernel zones
+App::CLI::Command::Commands(3pm) - Print a list of commands for your app
+App::CLI::Command::Version(3pm) - Print a preformatted version string
+B::Concise(3pm)          - Walk Perl syntax tree, printing concise info about ops
+B::Terse(3pm)            - Walk Perl syntax tree, printing terse info about ops
+DBIx::Class::Storage::Debug::PrettyPrint(3pm) - Pretty Printing DebugObj
+Data::Dump(3pm)          - Pretty printing of data structures
+Data::Dump::Filtered(3pm) - Pretty printing with filtering
+Data::Dumper(3pm)        - stringified perl data structures, suitable for both printing and "eval"
+Devel::PartialDump(3pm)  - Partial dumping of data structures, optimized for argument printing
+IO::Stty(3pm)            - Change and print terminal line settings
+MIME::Decoder::QuotedPrint(3pm) - encode/decode a "quoted-printable" stream
+MIME::QuotedPrint(3pm)   - Encoding and decoding of quoted-printable strings
+PerlIO::via::QuotedPrint(3pm) - PerlIO layer for quoted-printable strings
+Pod::Usage(3pm)          - print a usage message from embedded pod documentation
+PrintUITool(8)           - a tool to perform privileged ui based operations on the printing system
+Tcl_NewStringObj(3tcl), Tcl_NewUnicodeObj(3tcl), Tcl_SetStringObj(3tcl), Tcl_SetUnicodeObj(3tcl), Tcl_GetStringFromObj(3tcl), Tcl_GetString(3tcl), Tcl_GetUnicodeFromObj(3tcl), Tcl_GetUnicode(3tcl), Tcl_GetUniChar(3tcl), Tcl_GetCharLength(3tcl), Tcl_GetRange(3tcl), Tcl_AppendToObj(3tcl), Tcl_AppendUnicodeToObj(3tcl), Tcl_AppendObjToObj(3tcl), Tcl_AppendStringsToObj(3tcl), Tcl_AppendStringsToObjVA(3tcl), Tcl_AppendLimitedToObj(3tcl), Tcl_Format(3tcl), Tcl_AppendFormatToObj(3tcl), Tcl_ObjPrintf(3tcl), Tcl_AppendPrintfToObj(3tcl), Tcl_SetObjLength(3tcl), Tcl_AttemptSetObjLength(3tcl), Tcl_ConcatObj(3tcl) - manipulate Tcl objects as strings
+Tcl_PrintDouble(3tcl)    - Convert floating value to string
+Tcl_UniCharIsAlnum(3tcl), Tcl_UniCharIsAlpha(3tcl), Tcl_UniCharIsControl(3tcl), Tcl_UniCharIsDigit(3tcl), Tcl_UniCharIsGraph(3tcl), Tcl_UniCharIsLower(3tcl), Tcl_UniCharIsPrint(3tcl), Tcl_UniCharIsPunct(3tcl), Tcl_UniCharIsSpace(3tcl), Tcl_UniCharIsUpper(3tcl), Tcl_UniCharIsWordChar(3tcl) - routines for classification of Tcl_UniChar characters
+add_mibdir(3), netsnmp_init_mib(3), shutdown_mib(3), netsnmp_read_module(3), read_mib(3), read_all_mibs(3), add_module_replacement(3), snmp_set_mib_errors(3), snmp_set_mib_warnings(3), snmp_set_save_descriptions(3), read_objid(3), snmp_parse_oid(3), get_module_node(3), print_mib(3), print_objid(3), fprint_objid(3), snprint_objid(3), print_description(3), fprint_description(3), snprint_description(3) - netsnmp_mib_api functions
+arch(1)                  - print architecture type or run selected architecture of a universal binary
+asprintf_l(3), dprintf_l(3), fprintf_l(3), printf_l(3), snprintf_l(3), sprintf_l(3), vasprintf_l(3), vdprintf_l(3), vfprintf_l(3), vprintf_l(3), vsnprintf_l(3), vsprintf_l(3) - formatted output conversion
+asxprintf(3), dxprintf(3), fxprintf(3), sxprintf(3), xprintf(3), vasxprintf(3), vdxprintf(3), vfxprintf(3), vsxprintf(3), vxprintf(3) - extensible printf
+asxprintf_exec(3), dxprintf_exec(3), fxprintf_exec(3), sxprintf_exec(3), xprintf_exec(3), vasxprintf_exec(3), vdxprintf_exec(3), vfxprintf_exec(3), vsxprintf_exec(3), vxprintf_exec(3) - execute-only extensible printf execution
+au_fetch_tok(3), au_print_tok(3), au_print_flags_tok(3), au_read_rec(3) - perform I/O involving an audit record
+banner(6)                - print large banner on printer
+ber_alloc_t(3), ber_flush(3), ber_flush2(3), ber_printf(3), ber_put_int(3), ber_put_enum(3), ber_put_ostring(3), ber_put_string(3), ber_put_null(3), ber_put_boolean(3), ber_put_bitstring(3), ber_start_seq(3), ber_start_set(3), ber_put_seq(3), ber_put_set(3) - OpenLDAP LBER simplified Basic Encoding Rules library routines for encoding
+builtin(1), !(1), %(1), .(1), :(1), @(1), [(1), {(1), }(1), alias(1), alloc(1), bg(1), bind(1), bindkey(1), break(1), breaksw(1), builtins(1), case(1), cd(1), chdir(1), command(1), complete(1), continue(1), default(1), dirs(1), do(1), done(1), echo(1), echotc(1), elif(1), else(1), end(1), endif(1), endsw(1), esac(1), eval(1), exec(1), exit(1), export(1), false(1), fc(1), fg(1), filetest(1), fi(1), for(1), foreach(1), getopts(1), glob(1), goto(1), hash(1), hashstat(1), history(1), hup(1), if(1), jobid(1), jobs(1), kill(1), limit(1), local(1), log(1), login(1), logout(1), ls-F(1), nice(1), nohup(1), notify(1), onintr(1), popd(1), printenv(1), printf(1), pushd(1), pwd(1), read(1), readonly(1), rehash(1), repeat(1), return(1), sched(1), set(1), setenv(1), settc(1), setty(1), setvar(1), shift(1), source(1), stop(1), suspend(1), switch(1), telltc(1), test(1), then(1), time(1), times(1), trap(1), true(1), type(1), ulimit(1), umask(1), unalias(1), uncomplete(1), unhash(1), unlimit(1), unset(1), unsetenv(1), until(1), wait(1), where(1), which(1), while(1) - shell built-in commands
+cat(1)                   - concatenate and print files
+copy_printf_domain(3), free_printf_domain(3), new_printf_domain(3), register_printf_domain_function(3), register_printf_domain_render_std(3) - extensible printf domains
+cups(1)                  - a standards-based, open source printing system
+cups-lpd(8)              - receive print jobs and report printer status to lpd clients (deprecated)
+cupsdisable(8), cupsenable(8) - stop/start printers and classes
+curl_maprintf(3), curl_mfprintf(3), curl_mprintf(3), curl_msnprintf(3), curl_msprintf curl_mvaprintf(3), curl_mvfprintf(3), curl_mvprintf(3), curl_mvsnprintf(3), curl_mvsprintf(3) - formatted output conversion
+digittoint(3), isalnum(3), isalpha(3), isascii(3), isblank(3), iscntrl(3), isdigit(3), isgraph(3), ishexnumber(3), isideogram(3), islower(3), isnumber(3), isphonogram(3), isprint(3), ispunct(3), isrune(3), isspace(3), isspecial(3), isupper(3), isxdigit(3), toascii(3), tolower(3), toupper(3) - character classification macros
+digittoint_l(3), isalnum_l(3), isalpha_l(3), isascii_l(3), isblank_l(3), iscntrl_l(3), isdigit_l(3), isgraph_l(3), ishexnumber_l(3), isideogram_l(3), islower_l(3), isnumber_l(3), isphonogram_l(3), isprint_l(3), ispunct_l(3), isrune_l(3), isspace_l(3), isspecial_l(3), isupper_l(3), isxdigit_l(3), toascii_l(3), tolower_l(3), toupper_l(3) - character classification macros
+dserr(8)                 - prints a description for an error code
+env(1)                   - set environment and execute command, or print environment
+errinfo(1m)              - print errno for syscall fails. Uses DTrace
+fmtcheck(3)              - sanitizes user-supplied printf(3)-style format string
+footprint(1)             - gathers memory information about one or more processes
+form_requestname(3x)     - handle printable form request names
+format(ntcl)             - Format a string in the style of sprintf
+free_printf_comp(3), new_printf_comp(3) - extensible printf compilation
+fwkpfv(1)                - FireWire kprintf viewer
+glutReportErrors(3)      - for debugging purposes; prints out OpenGL run-time errors
+hostname(1)              - set or print name of current host system
+hotspot.d(1m)            - print disk event by location. Uses DTrace
+infocmp(1m)              - compare or print out terminfo descriptions
+iopattern(1m)            - print disk I/O pattern. Uses DTrace
+ippevepcl(7), ippevepcl/ps(7) - pcl and postscript print commands for ippeveprinter
+ippeveprinter(1)         - an ipp everywhere printer application for cups
+ippfind(1)               - find internet printing protocol printers
+ipptool(1)               - perform internet printing protocol requests
+isalnum_l(3), isalpha_l(3), isblank_l(3), iscntrl_l(3), isdigit_l(3), isgraph_l(3), ishexnumber_l(3), isideogram_l(3), islower_l(3), isnumber_l(3), isphonogram_l(3), isprint_l(3), ispunct_l(3), isrune_l(3), isspace_l(3), isspecial_l(3), isupper_l(3), isxdigit_l(3) - character classification utilities
+isgraph(3)               - printing character test (space character exclusive)
+isprint(3)               - printing character test (space character inclusive)
+iswalnum(3), iswalpha(3), iswascii(3), iswblank(3), iswcntrl(3), iswdigit(3), iswgraph(3), iswhexnumber(3), iswideogram(3), iswlower(3), iswnumber(3), iswphonogram(3), iswprint(3), iswpunct(3), iswrune(3), iswspace(3), iswspecial(3), iswupper(3), iswxdigit(3) - wide character classification utilities
+iswalnum_l(3), iswalpha_l(3), iswblank_l(3), iswcntrl_l(3), iswdigit_l(3), iswgraph_l(3), iswhexnumber_l(3), iswideogram_l(3), iswlower_l(3), iswnumber_l(3), iswphonogram_l(3), iswprint_l(3), iswpunct_l(3), iswrune_l(3), iswspace_l(3), iswspecial_l(3), iswupper_l(3), iswxdigit_l(3) - wide character classification utilities
+iwidgets_canvasprintbox(n), iwidgets::canvasprintbox(n) - Create and manipulate a canvas print box widget
+iwidgets_canvasprintdialog(n), iwidgets::canvasprintdialog(n) - Create and manipulate a canvas print dialog widget
+jot(1)                   - print sequential or random data
+kextfind(8)              - find kernel extensions (kexts) based on a variety of criteria and print information
+lastwords(1m)            - print syscalls before exit. Uses DTrace
+loads.d(1m)              - print load averages. Uses DTrace
+lp(1)                    - print files
+lpadmin(8)               - configure cups printers and classes
+lpc(8)                   - line printer control program (deprecated)
+lpoptions(1)             - display or set printer options and defaults
+lpq(1)                   - show printer queue status
+lpr(1)                   - print files
+lprm(1)                  - cancel print jobs
+lpstat(1)                - print cups status information
+machine(1)               - print machine type
+mcprint(3x)              - ship binary data to printer
+md5(1)                   - calculate a message-digest fingerprint (checksum) for a file
+menu_requestname(3x)     - handle printable menu request names
+pagesize(1)              - print system page size
+pcap_geterr(3pcap), pcap_perror(3pcap) - get or print libpcap error message text
+pcsstatus(1)             - print current status of PCS credentials
+pf.os(5)                 - format of the operating system fingerprints file
+pidpersec.d(1m)          - print new PIDs per sec. Uses DTrace
+plockstat(1)             - front-end to DTrace to print statistics about POSIX mutexes and read/write locks
+pod2usage(1)             - print usage messages from embedded pod docs in files
+podselect(1)             - print selected sections of pod documentation on standard output
+pr(1)                    - print files
+praudit(1)               - print the contents of audit trail files
+printenv(1)              - print out the environment
+printers.conf(5)         - printer configuration file for cups
+printf(1)                - formatted output
+printf(3), fprintf(3), sprintf(3), snprintf(3), asprintf(3), dprintf(3), vprintf(3), vfprintf(3), vsprintf(3), vsnprintf(3), vasprintf(3), vdprintf(3) - formatted output conversion
+printtool(8)             - a tool to configure the printing system
+printw(3x), wprintw(3x), mvprintw(3x), mvwprintw(3x), vwprintw(3x), vw_printw(3x) - print formatted output in curses windows
+quoted-printable(n)      - Encoding "quoted-printable"
+register_config_handler(3), register_const_config_handler(3), register_prenetsnmp_mib_handler(3), unregister_config_handler(3), register_mib_handlers(3), unregister_all_config_handlers(3), register_app_config_handler(3), register_app_prenetsnmp_mib_handler(3), unregister_app_config_handler(3), read_configs(3), read_premib_configs(3), read_config_print_usage(3), config_perror(3), config_pwarn(3) - netsnmp_config_api functions
+sa(8)                    - print system accounting statistics
+seeksize.d(1m)           - print disk event seek report. Uses DTrace
+seq(1)                   - print sequences of numbers
+shasum(1)                - Print or Check SHA Checksums
+snmp_pdu_add_variable(3), snmp_varlist_add_variable(3), snmp_add_null_var(3), snmp_clone_varbind(3), snmp_set_var_objid(3), snmp_set_var_value(3), snmp_set_var_typed_value(3), snmp_set_var_typed_integer(3), print_variable(3), fprint_variable(3), snprint_variable(3), print_value(3), fprint_value(3), snprint_value(3), snmp_free_var(3), snmp_free_varbind(3) - netsnmp_varbind_api functions
+sw_vers(1)               - print macOS version information
+tailspin(1)              - configure, save and print tailspin output
+tidy(1)                  - validate, correct, and pretty-print HTML files
+traceroute(8)            - print the route packets take to network host
+traceroute6(8)           - print the route IPv6 packets will take to a network node
+vis(1)                   - display non-printable characters in a visual format
+wprintf(3), fwprintf(3), swprintf(3), vwprintf(3), vfwprintf(3), vswprintf(3) - formatted wide character output conversion
+wprintf_l(3), fwprintf_l(3), swprintf_l(3), vwprintf_l(3), vfwprintf_l(3), vswprintf_l(3) - formatted wide character output conversion
+xprintf(5)               - extensible printf
+zprint(1)                - show information about kernel zones
+git-grep(1)              - Print lines matching a pattern
+size(1)                  - print the size of the sections in an object file
+strings(1)               - find the printable strings in a object, or other binary, file

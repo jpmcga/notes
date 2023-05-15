@@ -4,3 +4,5 @@ tyu/.ipynb_checkpoints/
 
 .DS_Store
 tyu/oates.gif
+**/.ipynb_checkpoints/
+**/__pycache__/

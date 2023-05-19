@@ -20,7 +20,7 @@ def get_probability_table(n: int, method: str='fac') -> pd.DataFrame:
     
     assert method in ['count', 'fac'], 'method must be "count" or "fac"'
     
-    count_heads = [i for i in range(n+1)]
+    count_heads = [int(i) for i in range(n+1)]
     
     if method=='count':
         outcomes = get_coin_outcomes(n)
